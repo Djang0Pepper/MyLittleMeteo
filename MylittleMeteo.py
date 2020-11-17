@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-#cf1cc9f567a1427aa85f4cc553727ff1
+#xxx
 #Consultation API météo avec openweathermap merci, encore ??, lionel
 
 import requests
@@ -8,7 +8,7 @@ import datetime
 import time
 
 ville = "cappelle-la-grande"
-myapi = "cf1cc9f567a1427aa85f4cc553727ff1"
+myapi = "xxx"
 #récupère le temps actuel
 
 url_weather = "http://api.openweathermap.org/data/2.5/weather?q="+ville+"&APPID="+myapi
